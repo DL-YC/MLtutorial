@@ -7,3 +7,10 @@ Everything is written in iPython notebooks, so that English, math, and code can 
 It is hoped that the combination of notes and Python implementations will be helpful to those studying the course.
 
 Happy hacking!
+
+## Dependencies
+
+I believe all you need to run the notebooks are:
+
+- iPython (http://ipython.org/install.html)
+- SciPy stack (which includes NumPy) (http://www.scipy.org/install.html)
